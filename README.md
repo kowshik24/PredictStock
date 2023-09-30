@@ -4,6 +4,17 @@
 
 Dive deep into the world of stocks with our application! 🌍 Powered by LSTM (Long Short-Term Memory) networks, we provide a comprehensive analysis and prediction of stock prices. Leveraging libraries like pandas, numpy, matplotlib, yfinance, keras, streamlit, and plotly, we ensure accurate and visually appealing insights. 📊
 
+Welcome to the Stock Price Analysis and Prediction application powered by Streamlit! Dive deep into the world of stocks, visualize trends, and predict future prices with the power of LSTM networks.
+
+![Stock Banner](images/stock_image.jpeg)
+
+## 🌐 Live Demo
+
+Experience the application live! 🎉
+
+🔗 [Stock Price Analysis & Prediction Streamlit App](YOUR_PUBLIC_URL_HERE)
+
+
 ## 🌟 Features
 
 1. **🔍 Stock Selection**: Dive into a plethora of stock tickers for detailed analysis and future predictions.
@@ -62,8 +73,9 @@ For any queries or feedback, please reach out to:
 - 📧 **Email**: [kowshikcseruet1998@gmail.com](mailto:kowshikcseruet1998@gmail.com)
 - 📱 **Phone**: 01706 896161
 - 🌐 **Website**: [https://kowshik24.github.io/kowshik.github.io/](https://kowshik24.github.io/kowshik.github.io/)
-- 🚀 **GitHub**: [GITHUB_LINK](https://github.com/kowshik24)
+- 🚀 **GitHub**: [Kowshik Deb Nath](https://github.com/kowshik24)
 
 ---
 
 > 🌟 _We value your feedback and are always here to help. Let's connect!_ 🌟
+
