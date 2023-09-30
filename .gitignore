@@ -1,0 +1,2 @@
+# Add gitignore vnev
+echo ".vnev" >> .gitignore
