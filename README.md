@@ -6,8 +6,6 @@ Dive deep into the world of stocks with our application! 🌍 Powered by LSTM (L
 
 Welcome to the Stock Price Analysis and Prediction application powered by Streamlit! Dive deep into the world of stocks, visualize trends, and predict future prices with the power of LSTM networks.
 
-![Stock Banner](images/stock_image.jpeg)
-
 ## 🌐 Live Demo
 
 Experience the application live! 🎉
